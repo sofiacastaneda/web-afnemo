@@ -1,2 +1,2 @@
 # web-afnemo
-Sitio web de la Asociación Afrocultural "Neftalí Mosquera"
+Mockup sitio web de la Asociación Afrocultural "Neftalí Mosquera"
